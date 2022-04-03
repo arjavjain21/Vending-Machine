@@ -1,0 +1,90 @@
+------------------------------
+Time & Date of Purchase: Wed Dec 01 05:50:11 IST 2021:
+Product(s): 
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ KitKat - Rs 20
+ KitKat - Rs 20
+ KitKat - Rs 20
+Total to be inserted: Rs 315.00
+Amount Input: Rs 400.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 06:26:56 IST 2021:
+Product(s): 
+ Bhujia - Rs 10
+ Bhujia - Rs 10
+ Bhujia - Rs 10
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+Total to be inserted: Rs 285.00
+Amount Input: Rs 400.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:24:20 IST 2021:
+Product(s): 
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+Total to be inserted: Rs 340.00
+Amount Input: Rs 400.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:30:01 IST 2021:
+Product(s): 
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ DairyMilk Silk- Rs 85
+ Kurkure - Rs 20
+ Kurkure - Rs 20
+ Kurkure - Rs 20
+ KitKat - Rs 20
+ KitKat - Rs 20
+Total to be inserted: Rs 355.00
+Amount Input: Rs 400.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:51:25 IST 2021:
+Product(s): 
+ DairyMilk Silk- Rs 85
+ KitKat - Rs 20
+ Amul Kool - Rs 20
+ Oreo - Rs 10
+Total to be inserted: Rs 135.00
+Amount Input: Rs 0.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:51:35 IST 2021:
+Product(s): 
+ DairyMilk Silk- Rs 85
+ KitKat - Rs 20
+ Amul Kool - Rs 20
+ Oreo - Rs 10
+Total to be inserted: Rs 135.00
+Amount Input: Rs 160.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:58:29 IST 2021:
+Product(s): 
+ Protein Bar - Rs 45
+Total to be inserted: Rs 45.00
+Amount Input: Rs 0.00
+--------------------------
+
+------------------------------
+Time & Date of Purchase: Wed Dec 01 09:58:55 IST 2021:
+Product(s): 
+ Protein Bar - Rs 45
+Total to be inserted: Rs 45.00
+Amount Input: Rs 45.00
+--------------------------
+
