@@ -20,9 +20,8 @@ Setup and Test
 The main method uses the objects of the vending machine pieces explained above.
 
 2. Now we test the class by simulating the following transactions:
-• A successful purchase in which the user receives the desired item. The user will then receive the receipt showing the amount they are left with in their card, after the purchase.
-• A purchase attempt that is unsuccessful because the stockpile does not contain that particular item.
-In this case the vending machine shows an output that shows the error message about unavailability of the product.
-• A purchase attempt that is unsuccessful because the user’s card doesn’t have enough balance.
+- A successful purchase in which the user receives the desired item. The user will then receive the receipt showing the amount they are left with in their card, after the purchase.
+- A purchase attempt that is unsuccessful because the stockpile does not contain that particular item. In this case the vending machine shows an output that shows the error message about unavailability of the product.
+- A purchase attempt that is unsuccessful because the user’s card doesn’t have enough balance.
  
 The inspiration of this project comes from the vending machines I had in my college campus. They were mostly out of order or used to have some payment issues where the user got charged but didn’t receive his/her order. With this project, my team and I planned to make the system better and more effective 
